@@ -4,7 +4,7 @@
   "type": "silverstripe-vendormodule",
   "require": {
     "dompdf/dompdf": "^2.0",
-    "silverstripe/framework": "^4.0.0"
+    "silverstripe/framework": "^4 || ^5"
   },
   "extra": {
     "installer-name": "silverstripe-dompdf"
